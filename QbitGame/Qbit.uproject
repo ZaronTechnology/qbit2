@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{38B32677-4677-8BE7-8EC8-BEAB936BCB5E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Qbit",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SpatialGDK",
+			"Enabled": true
+		}
+	]
+}
